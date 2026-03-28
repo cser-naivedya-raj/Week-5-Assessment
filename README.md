@@ -1,6 +1,6 @@
 # 🍕 Secure Food Delivery Order Processing System
 
-> **Question 38 | Medium Level | Java Final Assessment**  
+> **Java Final Assessment**  
 > A Spring Boot Microservices backend for a Food Delivery Platform with strict **1:1 entity relationships**, JWT authentication, and cascade operations.
 
 ---
@@ -223,10 +223,10 @@ food-delivery-microservices/
 
 ```bash
 # Clone the repository
-git clone https://github.com/cser-naivedya-raj/Java-Final-Assessment-Test.git
+git clone https://github.com/cser-naivedya-raj/Week-5-Assessment.git
 
 # Navigate to project
-cd Java-Final-Assessment-Test/food-delivery-microservices/food-delivery
+cd Week-5-Assessment/food-delivery-microservices/food-delivery
 
 # Build the project
 mvn clean install
@@ -242,4 +242,4 @@ mvn spring-boot:run
 ## 👤 Author
 
 **Naivedya Raj**  
-Java Final Assessment — Question 38
+Java Final Assessment
